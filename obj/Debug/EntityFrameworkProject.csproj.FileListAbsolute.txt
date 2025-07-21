@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\EntityFrameworkProject\bin\Debug\EntityFrameworkProject.exe.config
+C:\Users\lenovo\source\repos\EntityFrameworkProject\bin\Debug\EntityFrameworkProject.exe
+C:\Users\lenovo\source\repos\EntityFrameworkProject\bin\Debug\EntityFrameworkProject.pdb
+C:\Users\lenovo\source\repos\EntityFrameworkProject\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\source\repos\EntityFrameworkProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\source\repos\EntityFrameworkProject\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\source\repos\EntityFrameworkProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\source\repos\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.FrmCategory.resources
+C:\Users\lenovo\source\repos\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.Properties.Resources.resources
+C:\Users\lenovo\source\repos\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\EntityFrameworkProject\obj\Debug\EntityFr.3FCB33BE.Up2Date
+C:\Users\lenovo\source\repos\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.exe
+C:\Users\lenovo\source\repos\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.pdb
+C:\Users\lenovo\source\repos\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.exe.config
+C:\Users\lenovo\source\repos\EntityFrameworkProject\obj\Debug\EntityFrameworkProject.FrmProduct.resources
